@@ -27,6 +27,9 @@ This project serves as a proof-of-concept to demonstrate:
 - A GitHub account for deployment
 - A Streamlit Community Cloud account for hosting
 
+## License
+This demo project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Installation
 
 1. **Clone the Repository**:
