@@ -31,5 +31,5 @@ This project serves as a proof-of-concept to demonstrate:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/laks316/llm-web-modules.git
+   cd llm-web-modules
